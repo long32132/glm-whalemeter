@@ -6,9 +6,8 @@
 firmware/include/secrets.h
 config.json
 
-# 本地个人素材 (含第三方 IP 图片, 不分发)
+# 本地个人素材 (不入库)
 local/
-mascot_preview.png
 
 # 构建产物 / 临时文件
 *.log

@@ -14,7 +14,7 @@ PROJ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 HDR_PATH = os.path.join(PROJ, "firmware", "include", "mascot.h")
 PNG_PATH = os.path.join(PROJ, "mascot_preview.png")
 
-SRC = sys.argv[1] if len(sys.argv) > 1 else os.path.join(PROJ, "local", "reference.png")
+SRC = sys.argv[1] if len(sys.argv) > 1 else os.path.join(PROJ, "assets", "mascot_girl_reference.png")
 
 PAPER = (255, 246, 230)          # 固件 C_PAPER 渲染色 #FFF6E6
 TARGET_H = 100                    # 屏上高度 (像素)
