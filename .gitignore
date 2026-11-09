@@ -1,0 +1,16 @@
+# PlatformIO
+.pio/
+.vscode/
+
+# 私密配置 —— 绝不入库
+firmware/include/secrets.h
+config.json
+
+# 本地个人素材 (含第三方 IP 图片, 不分发)
+local/
+mascot_preview.png
+
+# 构建产物 / 临时文件
+*.log
+*.tmp
+.DS_Store
