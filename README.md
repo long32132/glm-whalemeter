@@ -3,7 +3,11 @@
 > 把你的 AI 编程订阅余量做成一台可爱的桌面状态屏。
 > Turn your AI coding-plan quota into a cute desk status display.
 
-![preview](docs/images/preview.jpg)
+![preview](docs/images/preview.png)
+
+**实物效果**（1.9 寸屏 · 已在 Sunton ESP32-1732S019N 上验证）：
+
+![desk](docs/images/desk.jpg)
 
 <!-- 英文简介见文末 English -->
 
